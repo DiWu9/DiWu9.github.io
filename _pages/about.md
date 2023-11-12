@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Body, Mind, Soul. 📍 Wuhan, China. 📱 +86 18302778862. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+# news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a software engineer who enjoys coding and algorithms. In my spare time, I love to play basketball and work out. To know more about me, check my blogs!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Education
+- 2021.8 - 2022.12: Master of Computer Science at [Rice MCS](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/), Houston, TX. (Go Owls!)
+- 2017.9 - 2021.6 Go U! Bachelor of Science (with double major in Math and CS) at [Union College](https://www.union.edu/), Schenectady, NY. (Go U!)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Work Experience
+- 2023.6 - Now: Software Engineer at [WISDRI](https://www.wisdri.com/), Wuhan
+- 2022.9 - 2022.12: Software Developer Intern at [Smarttwigs Consultancy Group](https://www.smarttwigs.com/), US Remote
+- 2021.6 - 2021.9: Software Developer Intern at [ByteDance](https://www.bytedance.com/), Beijing
